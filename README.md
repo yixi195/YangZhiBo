@@ -1,7 +1,7 @@
 # 扬直播
 
 仿互娱直播项目
-【YFramework使用demo】
+【[YFramework](https://github.com/yixi195/YFramework)使用demo】
 
 其他：
 
@@ -32,9 +32,9 @@
 
 
 ## 免责声明
-API 数据来源于熊猫tv，仅供个人参考学习使用。
+    API 数据来源于熊猫tv，仅供个人参考学习使用。
 
-邮箱： 195779438@qq.com
+    邮箱： 195779438@qq.com
 
                     ----by YSL
 
