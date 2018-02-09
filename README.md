@@ -5,9 +5,12 @@
 
 其他：
 
-1.登录、注册、通知消息使用了
-Bmob后端云SDK
-2.集合了 Rxjava+Retrofit2+Okhttp3的封装使用
+1.登录、注册、通知消息使用了Bmob后端云SDK</br>
+2.集合了 Rxjava+Retrofit2+Okhttp3的封装使用</br>
+3.直播间消息Recycler列表</br>
+4.直播间观众列表、礼物连击等</br>
+5.关注、热门、附近模块</br>
+6.我的模块</br>
 
 
 ## 效果图
@@ -22,6 +25,7 @@ Bmob后端云SDK
 
 <img src="https://raw.githubusercontent.com/yixi195/YangZhiBo/master/screenshots/007.png" width=268 height=457 />
 <img src="https://raw.githubusercontent.com/yixi195/YangZhiBo/master/screenshots/008.png" width=268 height=457 />
+<img src="https://raw.githubusercontent.com/yixi195/YangZhiBo/master/screenshots/009.png" width=268 height=457 />
 </div>
 
 
