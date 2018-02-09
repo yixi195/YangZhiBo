@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="bmob-im-2.0.6">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/9416827fd4292951fb542caefd8b9c12a35034a7/output/jars/libs/BmobNewIM_2.0.6_20170428.jar!/" />
+      <root url="jar://$USER_HOME$/.android/build-cache/9416827fd4292951fb542caefd8b9c12a35034a7/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/9416827fd4292951fb542caefd8b9c12a35034a7/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/9416827fd4292951fb542caefd8b9c12a35034a7/output/jars/libs/androidasync-2.1.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

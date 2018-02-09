@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">扬直播</string>
+
+    <!-- 向导图片 -->
+    <array name="guide_picture">
+        <item>@mipmap/live_guide_01</item>
+        <item>@mipmap/live_guide_02</item>
+        <item>@mipmap/live_guide_03</item>
+        <item>@mipmap/live_guide_04</item>
+    </array>
+</resources>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Framework</string>
+
+    <!-- Just use standard Pull Down String when pulling up. These can be set for languages which require it -->
+    <string name="pull_to_refresh_from_bottom_pull_label">正在加载更多…</string>
+    <string name="pull_to_refresh_from_bottom_release_label">正在加载更多…</string>
+    <string name="pull_to_refresh_from_bottom_refreshing_label">加载完成…</string>
+
+    <string name="pull_to_refresh_pull_label">正在努力加载中…</string>
+    <string name="pull_to_refresh_release_label">正在努力加载中…</string>
+    <string name="pull_to_refresh_refreshing_label">正在载入完成…</string>
+    <string name="this_is_the_last_data">已经是最后一条数据</string>
+    <string name="load_more_data">加载更多数据</string>
+</resources>

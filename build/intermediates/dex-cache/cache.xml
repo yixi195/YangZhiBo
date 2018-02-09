@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/turing_ios/.android/build-cache/39aea99b11c8413e4397bbf31e18671656f9523f/output/jars/libs/rxjava-1.1.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ac615240b277e7fd3950d7b35f73b733f310cede">
+        <dex dex="/Users/turing_ios/AndroidDemo/YangZhiBo/app/build/intermediates/pre-dexed/debug/rxjava-1.1.6_f903204ca7c2e9d0339e2c97cd3029479c204693.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Applications/Android Studio.app/Contents/gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="/Users/turing_ios/AndroidDemo/YangZhiBo/app/build/intermediates/pre-dexed/debug/converter-gson-2.1.0_9b90c3da31d0568b9dd35a8ae676110a15c273aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/turing_ios/.android/build-cache/39aea99b11c8413e4397bbf31e18671656f9523f/output/jars/libs/okhttp-3.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e7cb33d9f82d3b8521c6594b180f4dd9fc6d49f2">
+        <dex dex="/Users/turing_ios/AndroidDemo/YangZhiBo/app/build/intermediates/pre-dexed/debug/okhttp-3.3.1_0dc96c5b1dd4ec0e75061d1af32b48766a4eb84c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/turing_ios/AndroidDemo/YangZhiBo/app/libs/pldroid-player-1.5.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="074119feeee86a632d2e5e744444037986c29ab8">
+        <dex dex="/Users/turing_ios/AndroidDemo/YangZhiBo/app/build/intermediates/pre-dexed/debug/pldroid-player-1.5.1_1cfebb19711ab014ad7001cac0634b92b711864c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/turing_ios/.android/build-cache/71ce0cb7c339e370741e9a1841dcf290840e8d74/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="215b4ccb17a9869f23ce99df7708362b9dc167a7">
+        <dex dex="/Users/turing_ios/AndroidDemo/YangZhiBo/app/build/intermediates/pre-dexed/debug/classes_534126151a1ca051c221fb6da90264e43036c35f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Applications/Android Studio.app/Contents/gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/adapter-rxjava/2.0.1/cabf146d220dcd70a2972166cd1bfae200b97eff/adapter-rxjava-2.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="cabf146d220dcd70a2972166cd1bfae200b97eff">
+        <dex dex="/Users/turing_ios/AndroidDemo/YangZhiBo/app/build/intermediates/pre-dexed/debug/adapter-rxjava-2.0.1_1d1b8f4c66bfdbea005ac1a84030b1eb6dc625c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Applications/Android Studio.app/Contents/gradle/caches/modules-2/files-2.1/cn.bmob.android/http-legacy/1.0/5320fd78dd7f154e586970d4f02befc9b58432aa/http-legacy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5320fd78dd7f154e586970d4f02befc9b58432aa">
+        <dex dex="/Users/turing_ios/AndroidDemo/YangZhiBo/app/build/intermediates/pre-dexed/debug/http-legacy-1.0_fb2c7301854da21769b24d43e2578bf52b96af77.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/turing_ios/.android/build-cache/39aea99b11c8413e4397bbf31e18671656f9523f/output/jars/libs/okio-1.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bbeca71da43c8f4bc9ceedec002060f53437ad26">
+        <dex dex="/Users/turing_ios/AndroidDemo/YangZhiBo/app/build/intermediates/pre-dexed/debug/okio-1.7.0_81cb69f2eebb59aa8ec9a71543cd8f82cc828e89.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Applications/Android Studio.app/Contents/gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/Users/turing_ios/AndroidDemo/YangZhiBo/app/build/intermediates/pre-dexed/debug/retrofit-2.1.0_51680f148ad6f3347e0680d3e05f18aa7ef16e65.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Applications/Android Studio.app/Contents/gradle/caches/modules-2/files-2.1/cn.bmob.android/bmob-push/0.8/2fe391ed9034cd023de1da05cb8da77e08b46245/bmob-push-0.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2fe391ed9034cd023de1da05cb8da77e08b46245">
+        <dex dex="/Users/turing_ios/AndroidDemo/YangZhiBo/app/build/intermediates/pre-dexed/debug/bmob-push-0.8_78395ec83082658f909715279cec3ba1378db5cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/turing_ios/.android/build-cache/39aea99b11c8413e4397bbf31e18671656f9523f/output/jars/libs/rxandroid-1.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="19beef6debb6a22febc28777464c71bfccbafe3d">
+        <dex dex="/Users/turing_ios/AndroidDemo/YangZhiBo/app/build/intermediates/pre-dexed/debug/rxandroid-1.2.0_bc6aa6b0a0e01795bb16b21648f24f633fdf52ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/turing_ios/.android/build-cache/a0037b118515f53338df6172d95696212a5a2329/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="81571e80a25b2d650bd8f3c4a869b92b87117087">
+        <dex dex="/Users/turing_ios/AndroidDemo/YangZhiBo/app/build/intermediates/pre-dexed/debug/classes_275edf9f1fbdeff4194ce6f1ac0d16a7a6a1fe69.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/turing_ios/.android/build-cache/9416827fd4292951fb542caefd8b9c12a35034a7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="053a4219e947e56dd2a6f3d0139d30698b3d798b">
+        <dex dex="/Users/turing_ios/AndroidDemo/YangZhiBo/app/build/intermediates/pre-dexed/debug/classes_6530d56c20579663d7190d76589a939c9e1f0045.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/turing_ios/.android/build-cache/a41b038607324855d5d401d7a7946e26f4885cd9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="/Users/turing_ios/AndroidDemo/YangZhiBo/app/build/intermediates/pre-dexed/debug/classes_e03f3013540c8ca1f424d3455a02bd4177350558.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/turing_ios/.android/build-cache/39aea99b11c8413e4397bbf31e18671656f9523f/output/jars/libs/BmobSDK_3.5.0_20160630.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8eb5c605a02f792e326c5ac8e4feb2c18dd171ad">
+        <dex dex="/Users/turing_ios/AndroidDemo/YangZhiBo/app/build/intermediates/pre-dexed/debug/BmobSDK_3.5.0_20160630_064ca80fc59a95713b3f3dc6198410747c137d12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/turing_ios/AndroidDemo/YangZhiBo/Framework/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b8963797252cbda4f9ec683b9c7beb19cb152c9b">
+        <dex dex="/Users/turing_ios/AndroidDemo/YangZhiBo/app/build/intermediates/pre-dexed/debug/classes_a8a1ce9bd66aec7d660f6a164974396701b4909a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/turing_ios/.android/build-cache/39aea99b11c8413e4397bbf31e18671656f9523f/output/jars/libs/gson-2.6.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="dd625f5e7bba8235782b5dc4244c3fd26953190f">
+        <dex dex="/Users/turing_ios/AndroidDemo/YangZhiBo/app/build/intermediates/pre-dexed/debug/gson-2.6.2_de62201a95eff853b7f98f997503449abac85acb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/turing_ios/.android/build-cache/9416827fd4292951fb542caefd8b9c12a35034a7/output/jars/libs/androidasync-2.1.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0cd4b3a63b464f16c0cd9a26d4f32cb2d67ba907">
+        <dex dex="/Users/turing_ios/AndroidDemo/YangZhiBo/app/build/intermediates/pre-dexed/debug/androidasync-2.1.6_28a8d5e478be314c0d110cd6b45b23d70ab2be06.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/turing_ios/.android/build-cache/39aea99b11c8413e4397bbf31e18671656f9523f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e47f10299673ab68f24c595f96b18086cc9a8384">
+        <dex dex="/Users/turing_ios/AndroidDemo/YangZhiBo/app/build/intermediates/pre-dexed/debug/classes_95b8ea48e162f86d711a9aefb9182013852305f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/turing_ios/.android/build-cache/9416827fd4292951fb542caefd8b9c12a35034a7/output/jars/libs/BmobNewIM_2.0.6_20170428.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a070d0f3489a0119b9ed45491ff8048f84dba0ba">
+        <dex dex="/Users/turing_ios/AndroidDemo/YangZhiBo/app/build/intermediates/pre-dexed/debug/BmobNewIM_2.0.6_20170428_e69a4c5879e95e5c2f46f011522716510fe49dc0.jar" />
+    </item>
+
+</items>

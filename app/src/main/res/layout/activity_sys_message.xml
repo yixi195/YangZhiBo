@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <com.turing.framework.widget.MyTitleBar
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:middleText="系统消息"></com.turing.framework.widget.MyTitleBar>
+    <com.github.jdsjlzx.recyclerview.LRecyclerView
+        android:id="@+id/l_recyclerview"
+        style="@style/DefaultRecyclerView"/>
+</LinearLayout>

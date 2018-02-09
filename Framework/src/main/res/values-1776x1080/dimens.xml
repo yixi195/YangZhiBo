@@ -1,0 +1,37 @@
+<resources>
+    <dimen name="text_size_32">32.0sp</dimen>
+    <dimen name="text_size_31">31.0sp</dimen>
+    <dimen name="text_size_30">30.0sp</dimen>
+    <dimen name="text_size_29">29.0sp</dimen>
+    <dimen name="text_size_28">28.0sp</dimen>
+    <dimen name="text_size_27">27.0sp</dimen>
+    <dimen name="text_size_26">26.0sp</dimen>
+    <dimen name="text_size_25">25.0sp</dimen>
+    <dimen name="text_size_24">24.0sp</dimen>
+    <dimen name="text_size_23">23.0sp</dimen>
+    <dimen name="text_size_22">22.0sp</dimen>
+    <dimen name="text_size_21">21.0sp</dimen>
+    <dimen name="text_size_20">20.0sp</dimen>
+    <dimen name="text_size_19">19.0sp</dimen>
+    <dimen name="text_size_18">18.0sp</dimen>
+    <dimen name="text_size_17">17.0sp</dimen>
+    <dimen name="text_size_16">16.0sp</dimen>
+    <dimen name="text_size_15">15.0sp</dimen>
+    <dimen name="text_size_14">14.0sp</dimen>
+    <dimen name="text_size_13">13.0sp</dimen>
+    <dimen name="text_size_12">12.0sp</dimen>
+    <dimen name="text_size_11">11.0sp</dimen>
+    <dimen name="text_size_10">10.0sp</dimen>
+    <dimen name="text_size_9">9.0sp</dimen>
+    <dimen name="text_size_8">8.0sp</dimen>
+    <dimen name="text_size_7">7.0sp</dimen>
+    <dimen name="deal_view_width_90">110dp</dimen>
+    <dimen name="deal_view_width_120">120dp</dimen>
+    <dimen name="deal_view_width_110">110dp</dimen>
+    <dimen name="deal_view_check_pading">5dp</dimen>
+    <dimen name="welcome_bootom">30dp</dimen>
+    <dimen name="key_height">45.0dp</dimen>
+    <dimen name="key_height2">90.0dp</dimen>
+    <dimen name="trade_main_bottom_height">80dp</dimen>
+    <dimen name="dimen_80px">40dp</dimen>
+</resources>

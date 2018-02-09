@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#20b4e9</color>
+    <color name="colorPrimaryDark">#20b4e9</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="window_background">#F5F5F5</color>
+    <color name="tab_main_line">#eaecee</color>
+
+    <color name="common_bottom_bar_normal_bg">#323232</color>
+    <color name="common_bottom_bar_selected_bg">#fff</color>
+    <color name="common_botton_bar_text_noral">#5E5E5E</color>
+    <color name="placeholder">#ddd</color>
+    <color name="author_background">#66000000</color>
+
+    <color name="common_bg">#E6E6EB</color>
+
+    <color name="common_red">#FF4C4C</color>
+    <color name="common_white">#fff</color>
+    <color name="common_black">#3B3B3B</color>
+
+    <color name="color_progress">#2196F3</color>
+
+    <color name="common_btn_white_normal">@color/common_white</color>
+    <color name="common_btn_white_pressed">#ccc</color>
+
+    <color name="common_btn_black_normal">#1A1A1A</color>
+    <color name="black_323232">#323232</color>
+    <color name="common_btn_black_pressed">#111010</color>
+    <color name="common_btn_blue_normal">#24AAFF</color>
+    <color name="common_btn_blue_pressed">#1887cd</color>
+    <color name="theme_color">#20b4e9</color>
+
+    <color name="tab_unselect_text">#92def8</color>
+    <color name="tab_select_text">#239fdc</color>
+    <color name="black_m">#6c6c6c</color>
+
+    <color name="driver_color">#e5e5e5</color>
+</resources>

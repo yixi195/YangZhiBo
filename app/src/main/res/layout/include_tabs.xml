@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="70dip"
+    android:layout_gravity="bottom"
+    android:background="@android:color/transparent"
+    android:baselineAligned="false"
+    android:orientation="horizontal">
+
+    <!-- 首页 -->
+    <LinearLayout
+        android:id="@+id/tab_home"
+        style="@style/MainTabL">
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_marginBottom="5dp"
+            android:background="@color/tab_main_line" />
+
+        <TextView
+            style="@style/MainTab"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:drawableTop="@drawable/bt_nav_1"
+            android:text="首页" />
+    </LinearLayout>
+
+
+    <!-- 直播 -->
+    <FrameLayout
+        android:layout_width="0dp"
+        android:layout_height="70dp"
+        android:layout_weight="1">
+
+        <LinearLayout
+            style="@style/MainTabL"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                style="@style/MainTab"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_marginTop="19dip"
+            android:background="@color/tab_main_line" />
+
+        <RelativeLayout
+            android:id="@+id/tab_live"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center_horizontal"
+            android:gravity="center_horizontal"
+            android:orientation="vertical">
+
+            <RelativeLayout
+                android:id="@+id/iv_tab_add"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:contentDescription="@null"
+                    android:src="@mipmap/ic_main_bottom_add_back" />
+
+            </RelativeLayout>
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:contentDescription="@null"
+                android:layout_alignParentBottom="true"
+                android:layout_marginBottom="5dp"
+                android:src="@drawable/bt_nav_2" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true"
+                android:background="@color/white"
+                android:paddingBottom="3dp"
+                android:visibility="gone"
+                android:textColor="@color/text_color_nav"
+                android:textSize="12sp" />
+        </RelativeLayout>
+    </FrameLayout>
+
+    <!-- 我的 -->
+    <LinearLayout
+        android:id="@+id/tab_mine"
+        style="@style/MainTabL">
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_marginBottom="5dp"
+            android:background="@color/tab_main_line" />
+
+        <TextView
+            style="@style/MainTab"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:drawableTop="@drawable/bt_nav_3"
+            android:text="我的" />
+    </LinearLayout>
+
+</LinearLayout>

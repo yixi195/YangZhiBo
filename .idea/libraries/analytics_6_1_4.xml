@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="analytics-6.1.4">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/gradle/caches/modules-2/files-2.1/com.umeng.analytics/analytics/6.1.4/c1d30c2bbdce435b775cadca57df2098044a0f5e/analytics-6.1.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$APPLICATION_HOME_DIR$/gradle/caches/modules-2/files-2.1/com.umeng.analytics/analytics/6.1.4/fdcea7db3cff238ea101d8790d581fe96b8c872/analytics-6.1.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

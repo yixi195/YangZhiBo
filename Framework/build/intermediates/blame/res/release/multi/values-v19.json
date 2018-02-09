@@ -1,0 +1,131 @@
+[
+    {
+        "outputFile": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\YangZhiBo\\Framework\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-v19\\values-v19.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 44,
+                    "endOffset": 95
+                },
+                "from": {
+                    "file": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\YangZhiBo\\Framework\\src\\main\\res\\values-v19\\dimens.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 65,
+                        "endColumn": 44,
+                        "endOffset": 105
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 100,
+                    "endColumn": 48,
+                    "endOffset": 144
+                },
+                "from": {
+                    "file": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\YangZhiBo\\Framework\\src\\main\\res\\values-v19\\dimens.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 4,
+                        "startOffset": 16,
+                        "endColumn": 48,
+                        "endOffset": 60
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\TuringLive\\Framework\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-v19\\values-v19.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 44,
+                    "endOffset": 95
+                },
+                "from": {
+                    "file": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\TuringLive\\Framework\\src\\main\\res\\values-v19\\dimens.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 65,
+                        "endColumn": 44,
+                        "endOffset": 105
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 100,
+                    "endColumn": 48,
+                    "endOffset": 144
+                },
+                "from": {
+                    "file": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\TuringLive\\Framework\\src\\main\\res\\values-v19\\dimens.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 4,
+                        "startOffset": 16,
+                        "endColumn": 48,
+                        "endOffset": 60
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/turing_ios/AndroidDemo/YangZhiBo/Framework/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v19/values-v19.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 44,
+                    "endOffset": 95
+                },
+                "from": {
+                    "file": "/Users/turing_ios/AndroidDemo/YangZhiBo/Framework/src/main/res/values-v19/dimens.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 67,
+                        "endColumn": 44,
+                        "endOffset": 107
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 100,
+                    "endColumn": 48,
+                    "endOffset": 144
+                },
+                "from": {
+                    "file": "/Users/turing_ios/AndroidDemo/YangZhiBo/Framework/src/main/res/values-v19/dimens.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 4,
+                        "startOffset": 17,
+                        "endColumn": 48,
+                        "endOffset": 61
+                    }
+                }
+            }
+        ]
+    }
+]

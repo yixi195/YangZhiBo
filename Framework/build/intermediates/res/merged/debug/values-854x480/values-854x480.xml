@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="deal_view_check_pading">20dp</dimen>
+    <dimen name="deal_view_width_110">100dp</dimen>
+    <dimen name="deal_view_width_120">110dp</dimen>
+    <dimen name="deal_view_width_90">90dp</dimen>
+    <dimen name="key_height">40.0dp</dimen>
+    <dimen name="key_height2">80.0dp</dimen>
+    <dimen name="text_size_10">9.0sp</dimen>
+    <dimen name="text_size_11">9.0sp</dimen>
+    <dimen name="text_size_12">10.0sp</dimen>
+    <dimen name="text_size_13">11.0sp</dimen>
+    <dimen name="text_size_14">12.0sp</dimen>
+    <dimen name="text_size_15">12.0sp</dimen>
+    <dimen name="text_size_16">13.0sp</dimen>
+    <dimen name="text_size_17">14.0sp</dimen>
+    <dimen name="text_size_18">15.0sp</dimen>
+    <dimen name="text_size_19">16.0sp</dimen>
+    <dimen name="text_size_20">17.0sp</dimen>
+    <dimen name="text_size_21">17.0sp</dimen>
+    <dimen name="text_size_22">18.0sp</dimen>
+    <dimen name="text_size_23">19.0sp</dimen>
+    <dimen name="text_size_24">19.0sp</dimen>
+    <dimen name="text_size_25">21.0sp</dimen>
+    <dimen name="text_size_26">22.0sp</dimen>
+    <dimen name="text_size_27">22.0sp</dimen>
+    <dimen name="text_size_28">23.0sp</dimen>
+    <dimen name="text_size_29">24.0sp</dimen>
+    <dimen name="text_size_30">25.0sp</dimen>
+    <dimen name="text_size_31">26.0sp</dimen>
+    <dimen name="text_size_32">26.0sp</dimen>
+    <dimen name="text_size_7">7.0sp</dimen>
+    <dimen name="text_size_8">8.0sp</dimen>
+    <dimen name="text_size_9">9.0sp</dimen>
+    <dimen name="trade_main_bottom_height">50dp</dimen>
+    <dimen name="welcome_bootom">20dp</dimen>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <dimen name="toolBarPaddingTop">20dp</dimen>
+    <dimen name="toolBarHeight">75dp</dimen>
+    <dimen name="dimen_80px">40dp</dimen>
+</resources>

@@ -1,0 +1,562 @@
+[
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\TuringLive\\Framework\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\4789d490273a6a2e90a2c455b18d6f98713298fb\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\debug\\anim\\success_bow_roate.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\d284fb8a901cdb65476e53feaf5b9e697dca6c76\\output\\res\\anim\\success_bow_roate.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_top.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\YangZhiBo\\Framework\\src\\main\\res\\anim\\slide_out_to_top.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/GithubProject/YangZhiBo/Framework/build/intermediates/res/merged/debug/anim/design_fab_out.xml",
+        "source": "/Users/turing_ios/.android/build-cache/91a4c4d8cabb98a0e7da56885c2dc5f1cded7018/output/res/anim/design_fab_out.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/Framework/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/turing_ios/.android/build-cache/c53feb5ade01f489128826d68caa2781dcc147a4/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\debug\\anim\\floating_action_button_hide.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\167c54f8e1faf586d9c88b759e24c8ad9b648ab3\\output\\res\\anim\\floating_action_button_hide.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/E:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\debug\\anim\\modal_out.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\19577\\.android\\build-cache\\8202f60c047f557881d9f4c9689bbfb38d77deeb\\output\\res\\anim\\modal_out.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/E:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_bottom.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/E:\\YangZhiBo\\Framework\\src\\main\\res\\anim\\slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\TuringLive\\Framework\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_top.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\TuringLive\\Framework\\src\\main\\res\\anim\\slide_out_to_top.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/GithubProject/YangZhiBo/Framework/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/Users/turing_ios/.android/build-cache/91a4c4d8cabb98a0e7da56885c2dc5f1cded7018/output/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/Framework/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/turing_ios/.android/build-cache/c53feb5ade01f489128826d68caa2781dcc147a4/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\c0c35526647c76c3ad67d120a332ad5277abfa58\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/Framework/build/intermediates/res/merged/debug/anim/floating_action_button_show.xml",
+        "source": "/Users/turing_ios/.android/build-cache/4b0f25bf1a0f6b384f58f78e59fb22e1f13164ff/output/res/anim/floating_action_button_show.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/E:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\19577\\.android\\build-cache\\75d0c075a44a8f2b37d8c2824747360c4cd1769c\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\4789d490273a6a2e90a2c455b18d6f98713298fb\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/E:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\19577\\.android\\build-cache\\1d04e3f64ce39ff5ea45a1c46e56f22ce3c4d504\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/E:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_top.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/E:\\YangZhiBo\\Framework\\src\\main\\res\\anim\\slide_out_to_top.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\4789d490273a6a2e90a2c455b18d6f98713298fb\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\TuringLive\\Framework\\build\\intermediates\\res\\merged\\debug\\anim\\error_frame_in.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\d284fb8a901cdb65476e53feaf5b9e697dca6c76\\output\\res\\anim\\error_frame_in.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/E:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\19577\\.android\\build-cache\\75d0c075a44a8f2b37d8c2824747360c4cd1769c\\output\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/GithubProject/YangZhiBo/Framework/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/turing_ios/.android/build-cache/c53feb5ade01f489128826d68caa2781dcc147a4/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\debug\\anim\\modal_out.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\d284fb8a901cdb65476e53feaf5b9e697dca6c76\\output\\res\\anim\\modal_out.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/E:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\19577\\.android\\build-cache\\1d04e3f64ce39ff5ea45a1c46e56f22ce3c4d504\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_bottom.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\YangZhiBo\\Framework\\src\\main\\res\\anim\\slide_out_to_bottom.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/GithubProject/YangZhiBo/Framework/build/intermediates/res/merged/debug/anim/slide_in_from_bottom.xml",
+        "source": "/Users/turing_ios/GithubProject/YangZhiBo/Framework/src/main/res/anim/slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/GithubProject/YangZhiBo/Framework/build/intermediates/res/merged/debug/anim/slide_out_to_top.xml",
+        "source": "/Users/turing_ios/GithubProject/YangZhiBo/Framework/src/main/res/anim/slide_out_to_top.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/E:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\19577\\.android\\build-cache\\1d04e3f64ce39ff5ea45a1c46e56f22ce3c4d504\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/E:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_bottom.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/E:\\YangZhiBo\\Framework\\src\\main\\res\\anim\\slide_out_to_bottom.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/GithubProject/YangZhiBo/Framework/build/intermediates/res/merged/debug/anim/floating_action_button_hide.xml",
+        "source": "/Users/turing_ios/.android/build-cache/4b0f25bf1a0f6b384f58f78e59fb22e1f13164ff/output/res/anim/floating_action_button_hide.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\debug\\anim\\modal_in.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\d284fb8a901cdb65476e53feaf5b9e697dca6c76\\output\\res\\anim\\modal_in.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/E:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\19577\\.android\\build-cache\\1d04e3f64ce39ff5ea45a1c46e56f22ce3c4d504\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/GithubProject/YangZhiBo/Framework/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/turing_ios/.android/build-cache/c53feb5ade01f489128826d68caa2781dcc147a4/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_top.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\YangZhiBo\\Framework\\src\\main\\res\\anim\\slide_in_from_top.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\TuringLive\\Framework\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\4789d490273a6a2e90a2c455b18d6f98713298fb\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/E:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\19577\\.android\\build-cache\\75d0c075a44a8f2b37d8c2824747360c4cd1769c\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/E:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\debug\\anim\\error_x_in.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\19577\\.android\\build-cache\\8202f60c047f557881d9f4c9689bbfb38d77deeb\\output\\res\\anim\\error_x_in.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/Framework/build/intermediates/res/merged/debug/anim/success_bow_roate.xml",
+        "source": "/Users/turing_ios/.android/build-cache/9c36f8f9fc6c9c275ad518d59b17c6a04ef5a877/output/res/anim/success_bow_roate.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\TuringLive\\Framework\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\4789d490273a6a2e90a2c455b18d6f98713298fb\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\4789d490273a6a2e90a2c455b18d6f98713298fb\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\4789d490273a6a2e90a2c455b18d6f98713298fb\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_bottom.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\YangZhiBo\\Framework\\src\\main\\res\\anim\\slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\TuringLive\\Framework\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\4789d490273a6a2e90a2c455b18d6f98713298fb\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/E:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\debug\\anim\\success_mask_layout.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\19577\\.android\\build-cache\\8202f60c047f557881d9f4c9689bbfb38d77deeb\\output\\res\\anim\\success_mask_layout.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\TuringLive\\Framework\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\4789d490273a6a2e90a2c455b18d6f98713298fb\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/Framework/build/intermediates/res/merged/debug/anim/modal_in.xml",
+        "source": "/Users/turing_ios/.android/build-cache/9c36f8f9fc6c9c275ad518d59b17c6a04ef5a877/output/res/anim/modal_in.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/E:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\debug\\anim\\floating_action_button_hide.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\19577\\.android\\build-cache\\a70d869312bae65807910c25ec83d792941e013c\\output\\res\\anim\\floating_action_button_hide.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/Framework/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/turing_ios/.android/build-cache/c53feb5ade01f489128826d68caa2781dcc147a4/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\debug\\anim\\success_mask_layout.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\d284fb8a901cdb65476e53feaf5b9e697dca6c76\\output\\res\\anim\\success_mask_layout.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/Framework/build/intermediates/res/merged/debug/anim/error_x_in.xml",
+        "source": "/Users/turing_ios/.android/build-cache/9c36f8f9fc6c9c275ad518d59b17c6a04ef5a877/output/res/anim/error_x_in.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\TuringLive\\Framework\\build\\intermediates\\res\\merged\\debug\\anim\\success_bow_roate.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\d284fb8a901cdb65476e53feaf5b9e697dca6c76\\output\\res\\anim\\success_bow_roate.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\4789d490273a6a2e90a2c455b18d6f98713298fb\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\TuringLive\\Framework\\build\\intermediates\\res\\merged\\debug\\anim\\error_x_in.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\d284fb8a901cdb65476e53feaf5b9e697dca6c76\\output\\res\\anim\\error_x_in.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/E:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\19577\\.android\\build-cache\\1d04e3f64ce39ff5ea45a1c46e56f22ce3c4d504\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\TuringLive\\Framework\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\4789d490273a6a2e90a2c455b18d6f98713298fb\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/E:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\debug\\anim\\floating_action_button_show.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\19577\\.android\\build-cache\\a70d869312bae65807910c25ec83d792941e013c\\output\\res\\anim\\floating_action_button_show.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/Framework/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/turing_ios/.android/build-cache/91a4c4d8cabb98a0e7da56885c2dc5f1cded7018/output/res/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/Framework/build/intermediates/res/merged/debug/anim/design_fab_out.xml",
+        "source": "/Users/turing_ios/.android/build-cache/91a4c4d8cabb98a0e7da56885c2dc5f1cded7018/output/res/anim/design_fab_out.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\TuringLive\\Framework\\build\\intermediates\\res\\merged\\debug\\anim\\floating_action_button_show.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\167c54f8e1faf586d9c88b759e24c8ad9b648ab3\\output\\res\\anim\\floating_action_button_show.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/GithubProject/YangZhiBo/Framework/build/intermediates/res/merged/debug/anim/error_frame_in.xml",
+        "source": "/Users/turing_ios/.android/build-cache/9c36f8f9fc6c9c275ad518d59b17c6a04ef5a877/output/res/anim/error_frame_in.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\c0c35526647c76c3ad67d120a332ad5277abfa58\\output\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/GithubProject/YangZhiBo/Framework/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/turing_ios/.android/build-cache/c53feb5ade01f489128826d68caa2781dcc147a4/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\TuringLive\\Framework\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\4789d490273a6a2e90a2c455b18d6f98713298fb\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/E:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\debug\\anim\\success_bow_roate.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\19577\\.android\\build-cache\\8202f60c047f557881d9f4c9689bbfb38d77deeb\\output\\res\\anim\\success_bow_roate.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\TuringLive\\Framework\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\c0c35526647c76c3ad67d120a332ad5277abfa58\\output\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/Framework/build/intermediates/res/merged/debug/anim/design_fab_in.xml",
+        "source": "/Users/turing_ios/.android/build-cache/91a4c4d8cabb98a0e7da56885c2dc5f1cded7018/output/res/anim/design_fab_in.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/E:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\19577\\.android\\build-cache\\75d0c075a44a8f2b37d8c2824747360c4cd1769c\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/GithubProject/YangZhiBo/Framework/build/intermediates/res/merged/debug/anim/success_bow_roate.xml",
+        "source": "/Users/turing_ios/.android/build-cache/9c36f8f9fc6c9c275ad518d59b17c6a04ef5a877/output/res/anim/success_bow_roate.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\TuringLive\\Framework\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\c0c35526647c76c3ad67d120a332ad5277abfa58\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/GithubProject/YangZhiBo/Framework/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/turing_ios/.android/build-cache/c53feb5ade01f489128826d68caa2781dcc147a4/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\TuringLive\\Framework\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\c0c35526647c76c3ad67d120a332ad5277abfa58\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\TuringLive\\Framework\\build\\intermediates\\res\\merged\\debug\\anim\\modal_out.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\d284fb8a901cdb65476e53feaf5b9e697dca6c76\\output\\res\\anim\\modal_out.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/GithubProject/YangZhiBo/Framework/build/intermediates/res/merged/debug/anim/error_x_in.xml",
+        "source": "/Users/turing_ios/.android/build-cache/9c36f8f9fc6c9c275ad518d59b17c6a04ef5a877/output/res/anim/error_x_in.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\c0c35526647c76c3ad67d120a332ad5277abfa58\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\TuringLive\\Framework\\build\\intermediates\\res\\merged\\debug\\anim\\floating_action_button_hide.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\167c54f8e1faf586d9c88b759e24c8ad9b648ab3\\output\\res\\anim\\floating_action_button_hide.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/Framework/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/turing_ios/.android/build-cache/c53feb5ade01f489128826d68caa2781dcc147a4/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/GithubProject/YangZhiBo/Framework/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/turing_ios/.android/build-cache/91a4c4d8cabb98a0e7da56885c2dc5f1cded7018/output/res/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/GithubProject/YangZhiBo/Framework/build/intermediates/res/merged/debug/anim/modal_in.xml",
+        "source": "/Users/turing_ios/.android/build-cache/9c36f8f9fc6c9c275ad518d59b17c6a04ef5a877/output/res/anim/modal_in.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/GithubProject/YangZhiBo/Framework/build/intermediates/res/merged/debug/anim/floating_action_button_show.xml",
+        "source": "/Users/turing_ios/.android/build-cache/4b0f25bf1a0f6b384f58f78e59fb22e1f13164ff/output/res/anim/floating_action_button_show.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/E:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\debug\\anim\\modal_in.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\19577\\.android\\build-cache\\8202f60c047f557881d9f4c9689bbfb38d77deeb\\output\\res\\anim\\modal_in.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\4789d490273a6a2e90a2c455b18d6f98713298fb\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/Framework/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/Users/turing_ios/.android/build-cache/91a4c4d8cabb98a0e7da56885c2dc5f1cded7018/output/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\TuringLive\\Framework\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_bottom.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\TuringLive\\Framework\\src\\main\\res\\anim\\slide_out_to_bottom.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\c0c35526647c76c3ad67d120a332ad5277abfa58\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/GithubProject/YangZhiBo/Framework/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/Users/turing_ios/.android/build-cache/91a4c4d8cabb98a0e7da56885c2dc5f1cded7018/output/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\TuringLive\\Framework\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\c0c35526647c76c3ad67d120a332ad5277abfa58\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/Framework/build/intermediates/res/merged/debug/anim/slide_out_to_top.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/Framework/src/main/res/anim/slide_out_to_top.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\TuringLive\\Framework\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\c0c35526647c76c3ad67d120a332ad5277abfa58\\output\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/GithubProject/YangZhiBo/Framework/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/turing_ios/.android/build-cache/c53feb5ade01f489128826d68caa2781dcc147a4/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/E:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\19577\\.android\\build-cache\\75d0c075a44a8f2b37d8c2824747360c4cd1769c\\output\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/Framework/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/Users/turing_ios/.android/build-cache/91a4c4d8cabb98a0e7da56885c2dc5f1cded7018/output/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/GithubProject/YangZhiBo/Framework/build/intermediates/res/merged/debug/anim/design_fab_in.xml",
+        "source": "/Users/turing_ios/.android/build-cache/91a4c4d8cabb98a0e7da56885c2dc5f1cded7018/output/res/anim/design_fab_in.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/E:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\19577\\.android\\build-cache\\1d04e3f64ce39ff5ea45a1c46e56f22ce3c4d504\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/GithubProject/YangZhiBo/Framework/build/intermediates/res/merged/debug/anim/slide_out_to_bottom.xml",
+        "source": "/Users/turing_ios/GithubProject/YangZhiBo/Framework/src/main/res/anim/slide_out_to_bottom.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\TuringLive\\Framework\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_bottom.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\TuringLive\\Framework\\src\\main\\res\\anim\\slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\TuringLive\\Framework\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\4789d490273a6a2e90a2c455b18d6f98713298fb\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\TuringLive\\Framework\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\4789d490273a6a2e90a2c455b18d6f98713298fb\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\TuringLive\\Framework\\build\\intermediates\\res\\merged\\debug\\anim\\modal_in.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\d284fb8a901cdb65476e53feaf5b9e697dca6c76\\output\\res\\anim\\modal_in.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/E:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\19577\\.android\\build-cache\\1d04e3f64ce39ff5ea45a1c46e56f22ce3c4d504\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\4789d490273a6a2e90a2c455b18d6f98713298fb\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\4789d490273a6a2e90a2c455b18d6f98713298fb\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\c0c35526647c76c3ad67d120a332ad5277abfa58\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/Framework/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/turing_ios/.android/build-cache/c53feb5ade01f489128826d68caa2781dcc147a4/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/Framework/build/intermediates/res/merged/debug/anim/modal_out.xml",
+        "source": "/Users/turing_ios/.android/build-cache/9c36f8f9fc6c9c275ad518d59b17c6a04ef5a877/output/res/anim/modal_out.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\debug\\anim\\floating_action_button_show.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\167c54f8e1faf586d9c88b759e24c8ad9b648ab3\\output\\res\\anim\\floating_action_button_show.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/Framework/build/intermediates/res/merged/debug/anim/slide_in_from_bottom.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/Framework/src/main/res/anim/slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/GithubProject/YangZhiBo/Framework/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/turing_ios/.android/build-cache/c53feb5ade01f489128826d68caa2781dcc147a4/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/Framework/build/intermediates/res/merged/debug/anim/floating_action_button_hide.xml",
+        "source": "/Users/turing_ios/.android/build-cache/4b0f25bf1a0f6b384f58f78e59fb22e1f13164ff/output/res/anim/floating_action_button_hide.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/Framework/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/turing_ios/.android/build-cache/c53feb5ade01f489128826d68caa2781dcc147a4/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\debug\\anim\\error_frame_in.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\d284fb8a901cdb65476e53feaf5b9e697dca6c76\\output\\res\\anim\\error_frame_in.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/GithubProject/YangZhiBo/Framework/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/turing_ios/.android/build-cache/c53feb5ade01f489128826d68caa2781dcc147a4/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/GithubProject/YangZhiBo/Framework/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/turing_ios/.android/build-cache/c53feb5ade01f489128826d68caa2781dcc147a4/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\c0c35526647c76c3ad67d120a332ad5277abfa58\\output\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\debug\\anim\\error_x_in.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\d284fb8a901cdb65476e53feaf5b9e697dca6c76\\output\\res\\anim\\error_x_in.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/Framework/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/turing_ios/.android/build-cache/c53feb5ade01f489128826d68caa2781dcc147a4/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/GithubProject/YangZhiBo/Framework/build/intermediates/res/merged/debug/anim/success_mask_layout.xml",
+        "source": "/Users/turing_ios/.android/build-cache/9c36f8f9fc6c9c275ad518d59b17c6a04ef5a877/output/res/anim/success_mask_layout.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/GithubProject/YangZhiBo/Framework/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/turing_ios/.android/build-cache/c53feb5ade01f489128826d68caa2781dcc147a4/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/GithubProject/YangZhiBo/Framework/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/turing_ios/.android/build-cache/c53feb5ade01f489128826d68caa2781dcc147a4/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/Framework/build/intermediates/res/merged/debug/anim/success_mask_layout.xml",
+        "source": "/Users/turing_ios/.android/build-cache/9c36f8f9fc6c9c275ad518d59b17c6a04ef5a877/output/res/anim/success_mask_layout.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\TuringLive\\Framework\\build\\intermediates\\res\\merged\\debug\\anim\\success_mask_layout.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\d284fb8a901cdb65476e53feaf5b9e697dca6c76\\output\\res\\anim\\success_mask_layout.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/E:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\debug\\anim\\error_frame_in.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\19577\\.android\\build-cache\\8202f60c047f557881d9f4c9689bbfb38d77deeb\\output\\res\\anim\\error_frame_in.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/Framework/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/turing_ios/.android/build-cache/c53feb5ade01f489128826d68caa2781dcc147a4/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/Framework/build/intermediates/res/merged/debug/anim/slide_in_from_top.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/Framework/src/main/res/anim/slide_in_from_top.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\TuringLive\\Framework\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\c0c35526647c76c3ad67d120a332ad5277abfa58\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\TuringLive\\Framework\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_top.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\TuringLive\\Framework\\src\\main\\res\\anim\\slide_in_from_top.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/Framework/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/turing_ios/.android/build-cache/c53feb5ade01f489128826d68caa2781dcc147a4/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/Framework/build/intermediates/res/merged/debug/anim/slide_out_to_bottom.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/Framework/src/main/res/anim/slide_out_to_bottom.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/E:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\19577\\.android\\build-cache\\1d04e3f64ce39ff5ea45a1c46e56f22ce3c4d504\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/Framework/build/intermediates/res/merged/debug/anim/error_frame_in.xml",
+        "source": "/Users/turing_ios/.android/build-cache/9c36f8f9fc6c9c275ad518d59b17c6a04ef5a877/output/res/anim/error_frame_in.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\4789d490273a6a2e90a2c455b18d6f98713298fb\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\4789d490273a6a2e90a2c455b18d6f98713298fb\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/E:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\19577\\.android\\build-cache\\1d04e3f64ce39ff5ea45a1c46e56f22ce3c4d504\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\TuringLive\\Framework\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\4789d490273a6a2e90a2c455b18d6f98713298fb\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/GithubProject/YangZhiBo/Framework/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/turing_ios/.android/build-cache/91a4c4d8cabb98a0e7da56885c2dc5f1cded7018/output/res/anim/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/E:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\19577\\.android\\build-cache\\1d04e3f64ce39ff5ea45a1c46e56f22ce3c4d504\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/E:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_top.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/E:\\YangZhiBo\\Framework\\src\\main\\res\\anim\\slide_in_from_top.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/E:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\19577\\.android\\build-cache\\75d0c075a44a8f2b37d8c2824747360c4cd1769c\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/Framework/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/turing_ios/.android/build-cache/c53feb5ade01f489128826d68caa2781dcc147a4/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/Framework/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/turing_ios/.android/build-cache/91a4c4d8cabb98a0e7da56885c2dc5f1cded7018/output/res/anim/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/GithubProject/YangZhiBo/Framework/build/intermediates/res/merged/debug/anim/modal_out.xml",
+        "source": "/Users/turing_ios/.android/build-cache/9c36f8f9fc6c9c275ad518d59b17c6a04ef5a877/output/res/anim/modal_out.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/GithubProject/YangZhiBo/Framework/build/intermediates/res/merged/debug/anim/slide_in_from_top.xml",
+        "source": "/Users/turing_ios/GithubProject/YangZhiBo/Framework/src/main/res/anim/slide_in_from_top.xml"
+    }
+]

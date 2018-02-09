@@ -1,0 +1,802 @@
+[
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\TuringLive\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\4789d490273a6a2e90a2c455b18d6f98713298fb\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\abc_tab_indicator_material.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\4789d490273a6a2e90a2c455b18d6f98713298fb\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\abc_dialog_material_background.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\4789d490273a6a2e90a2c455b18d6f98713298fb\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/Framework/build/intermediates/res/merged/release/drawable/bmob_update_button_ok_bg_focused.xml",
+        "source": "/Users/turing_ios/.android/build-cache/39aea99b11c8413e4397bbf31e18671656f9523f/output/res/drawable/bmob_update_button_ok_bg_focused.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\TuringLive\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\blue_button_background.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\d284fb8a901cdb65476e53feaf5b9e697dca6c76\\output\\res\\drawable\\blue_button_background.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/Framework/build/intermediates/res/merged/release/drawable/abc_btn_colored_material.xml",
+        "source": "/Users/turing_ios/.android/build-cache/c53feb5ade01f489128826d68caa2781dcc147a4/output/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/Framework/build/intermediates/res/merged/release/drawable/abc_edit_text_material.xml",
+        "source": "/Users/turing_ios/.android/build-cache/c53feb5ade01f489128826d68caa2781dcc147a4/output/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\blue_button_background.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\d284fb8a901cdb65476e53feaf5b9e697dca6c76\\output\\res\\drawable\\blue_button_background.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\4789d490273a6a2e90a2c455b18d6f98713298fb\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\abc_edit_text_material.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\4789d490273a6a2e90a2c455b18d6f98713298fb\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/Framework/build/intermediates/res/merged/release/drawable/red_button_background.xml",
+        "source": "/Users/turing_ios/.android/build-cache/9c36f8f9fc6c9c275ad518d59b17c6a04ef5a877/output/res/drawable/red_button_background.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\TuringLive\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\4789d490273a6a2e90a2c455b18d6f98713298fb\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\bmob_update_button_check_selector.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\6f7e5c63cc2346d4a88190b6754571cd4a486128\\output\\res\\drawable\\bmob_update_button_check_selector.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_clear_material.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\4789d490273a6a2e90a2c455b18d6f98713298fb\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\TuringLive\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\abc_edit_text_material.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\4789d490273a6a2e90a2c455b18d6f98713298fb\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/Framework/build/intermediates/res/merged/release/drawable/blue_button_background.xml",
+        "source": "/Users/turing_ios/.android/build-cache/9c36f8f9fc6c9c275ad518d59b17c6a04ef5a877/output/res/drawable/blue_button_background.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\TuringLive\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\4789d490273a6a2e90a2c455b18d6f98713298fb\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/Framework/build/intermediates/res/merged/release/drawable/notification_tile_bg.xml",
+        "source": "/Users/turing_ios/.android/build-cache/c53feb5ade01f489128826d68caa2781dcc147a4/output/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/Framework/build/intermediates/res/merged/release/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/Users/turing_ios/.android/build-cache/c53feb5ade01f489128826d68caa2781dcc147a4/output/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\4789d490273a6a2e90a2c455b18d6f98713298fb\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\TuringLive\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\4789d490273a6a2e90a2c455b18d6f98713298fb\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\4789d490273a6a2e90a2c455b18d6f98713298fb\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\TuringLive\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_radio_material.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\4789d490273a6a2e90a2c455b18d6f98713298fb\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\4789d490273a6a2e90a2c455b18d6f98713298fb\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\TuringLive\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\gray_button_background.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\d284fb8a901cdb65476e53feaf5b9e697dca6c76\\output\\res\\drawable\\gray_button_background.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\4789d490273a6a2e90a2c455b18d6f98713298fb\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/Framework/build/intermediates/res/merged/release/drawable/progressloading.xml",
+        "source": "/Users/turing_ios/.android/build-cache/4b0f25bf1a0f6b384f58f78e59fb22e1f13164ff/output/res/drawable/progressloading.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\4789d490273a6a2e90a2c455b18d6f98713298fb\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\4789d490273a6a2e90a2c455b18d6f98713298fb\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\TuringLive\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\abc_tab_indicator_material.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\4789d490273a6a2e90a2c455b18d6f98713298fb\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\bmob_update_button_ok_bg_tap.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\6f7e5c63cc2346d4a88190b6754571cd4a486128\\output\\res\\drawable\\bmob_update_button_ok_bg_tap.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\TuringLive\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\progressloading.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\167c54f8e1faf586d9c88b759e24c8ad9b648ab3\\output\\res\\drawable\\progressloading.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/Framework/build/intermediates/res/merged/release/drawable/abc_ic_ab_back_material.xml",
+        "source": "/Users/turing_ios/.android/build-cache/c53feb5ade01f489128826d68caa2781dcc147a4/output/res/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\bmob_update_dialog_bg.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\6f7e5c63cc2346d4a88190b6754571cd4a486128\\output\\res\\drawable\\bmob_update_dialog_bg.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/Framework/build/intermediates/res/merged/release/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/Users/turing_ios/.android/build-cache/c53feb5ade01f489128826d68caa2781dcc147a4/output/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/Framework/build/intermediates/res/merged/release/drawable/notification_bg.xml",
+        "source": "/Users/turing_ios/.android/build-cache/c53feb5ade01f489128826d68caa2781dcc147a4/output/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\abc_switch_thumb_material.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\4789d490273a6a2e90a2c455b18d6f98713298fb\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/Framework/build/intermediates/res/merged/release/drawable/abc_btn_radio_material.xml",
+        "source": "/Users/turing_ios/.android/build-cache/c53feb5ade01f489128826d68caa2781dcc147a4/output/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\bmob_update_button_ok_bg_selector.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\6f7e5c63cc2346d4a88190b6754571cd4a486128\\output\\res\\drawable\\bmob_update_button_ok_bg_selector.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/Framework/build/intermediates/res/merged/release/drawable/bmob_update_button_cancel_bg_selector.xml",
+        "source": "/Users/turing_ios/.android/build-cache/39aea99b11c8413e4397bbf31e18671656f9523f/output/res/drawable/bmob_update_button_cancel_bg_selector.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\TuringLive\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\design_password_eye.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\c0c35526647c76c3ad67d120a332ad5277abfa58\\output\\res\\drawable\\design_password_eye.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/Framework/build/intermediates/res/merged/release/drawable/dialog_background.xml",
+        "source": "/Users/turing_ios/.android/build-cache/9c36f8f9fc6c9c275ad518d59b17c6a04ef5a877/output/res/drawable/dialog_background.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\TuringLive\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\default_img.png",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\TuringLive\\Framework\\src\\main\\res\\drawable\\default_img.png"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\default_img.png",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\YangZhiBo\\Framework\\src\\main\\res\\drawable\\default_img.png"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\TuringLive\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\dialog_loading_bg.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\TuringLive\\Framework\\src\\main\\res\\drawable\\dialog_loading_bg.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/Framework/build/intermediates/res/merged/release/drawable/choice_dialog_background.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/Framework/src/main/res/drawable/choice_dialog_background.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\gray_button_background.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\d284fb8a901cdb65476e53feaf5b9e697dca6c76\\output\\res\\drawable\\gray_button_background.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/Framework/build/intermediates/res/merged/release/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/Users/turing_ios/.android/build-cache/c53feb5ade01f489128826d68caa2781dcc147a4/output/res/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\TuringLive\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\4789d490273a6a2e90a2c455b18d6f98713298fb\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\TuringLive\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\notification_bg.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\4789d490273a6a2e90a2c455b18d6f98713298fb\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/Framework/build/intermediates/res/merged/release/drawable/back.png",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/Framework/src/main/res/drawable/back.png"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\error_circle.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\d284fb8a901cdb65476e53feaf5b9e697dca6c76\\output\\res\\drawable\\error_circle.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\TuringLive\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\abc_switch_thumb_material.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\4789d490273a6a2e90a2c455b18d6f98713298fb\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\TuringLive\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\navigation_empty_icon.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\c0c35526647c76c3ad67d120a332ad5277abfa58\\output\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\TuringLive\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\4789d490273a6a2e90a2c455b18d6f98713298fb\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/Framework/build/intermediates/res/merged/release/drawable/abc_textfield_search_material.xml",
+        "source": "/Users/turing_ios/.android/build-cache/c53feb5ade01f489128826d68caa2781dcc147a4/output/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/Framework/build/intermediates/res/merged/release/drawable/abc_ic_clear_material.xml",
+        "source": "/Users/turing_ios/.android/build-cache/c53feb5ade01f489128826d68caa2781dcc147a4/output/res/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\4789d490273a6a2e90a2c455b18d6f98713298fb\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/Framework/build/intermediates/res/merged/release/drawable/success_bow.xml",
+        "source": "/Users/turing_ios/.android/build-cache/9c36f8f9fc6c9c275ad518d59b17c6a04ef5a877/output/res/drawable/success_bow.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\TuringLive\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\4789d490273a6a2e90a2c455b18d6f98713298fb\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\4789d490273a6a2e90a2c455b18d6f98713298fb\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\TuringLive\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\abc_text_cursor_material.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\4789d490273a6a2e90a2c455b18d6f98713298fb\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/Framework/build/intermediates/res/merged/release/drawable/notification_icon_background.xml",
+        "source": "/Users/turing_ios/.android/build-cache/c53feb5ade01f489128826d68caa2781dcc147a4/output/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/Framework/build/intermediates/res/merged/release/drawable/abc_cab_background_top_material.xml",
+        "source": "/Users/turing_ios/.android/build-cache/c53feb5ade01f489128826d68caa2781dcc147a4/output/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\TuringLive\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\4789d490273a6a2e90a2c455b18d6f98713298fb\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\TuringLive\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\notification_bg_low.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\4789d490273a6a2e90a2c455b18d6f98713298fb\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_check_material.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\4789d490273a6a2e90a2c455b18d6f98713298fb\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\bmob_update_button_cancel_bg_selector.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\6f7e5c63cc2346d4a88190b6754571cd4a486128\\output\\res\\drawable\\bmob_update_button_cancel_bg_selector.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_colored_material.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\4789d490273a6a2e90a2c455b18d6f98713298fb\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_borderless_material.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\4789d490273a6a2e90a2c455b18d6f98713298fb\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\progressloading.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\167c54f8e1faf586d9c88b759e24c8ad9b648ab3\\output\\res\\drawable\\progressloading.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/Framework/build/intermediates/res/merged/release/drawable/dialog_loading_bg.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/Framework/src/main/res/drawable/dialog_loading_bg.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/Framework/build/intermediates/res/merged/release/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/turing_ios/.android/build-cache/c53feb5ade01f489128826d68caa2781dcc147a4/output/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/Framework/build/intermediates/res/merged/release/drawable/abc_dialog_material_background.xml",
+        "source": "/Users/turing_ios/.android/build-cache/c53feb5ade01f489128826d68caa2781dcc147a4/output/res/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_light.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\4789d490273a6a2e90a2c455b18d6f98713298fb\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/Framework/build/intermediates/res/merged/release/drawable/design_password_eye.xml",
+        "source": "/Users/turing_ios/.android/build-cache/91a4c4d8cabb98a0e7da56885c2dc5f1cded7018/output/res/drawable/design_password_eye.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\TuringLive\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_light.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\4789d490273a6a2e90a2c455b18d6f98713298fb\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/Framework/build/intermediates/res/merged/release/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "/Users/turing_ios/.android/build-cache/c53feb5ade01f489128826d68caa2781dcc147a4/output/res/drawable/abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/Framework/build/intermediates/res/merged/release/drawable/default_img.png",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/Framework/src/main/res/drawable/default_img.png"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\design_snackbar_background.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\c0c35526647c76c3ad67d120a332ad5277abfa58\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_top_material.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\4789d490273a6a2e90a2c455b18d6f98713298fb\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\success_circle.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\d284fb8a901cdb65476e53feaf5b9e697dca6c76\\output\\res\\drawable\\success_circle.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/Framework/build/intermediates/res/merged/release/drawable/error_circle.xml",
+        "source": "/Users/turing_ios/.android/build-cache/9c36f8f9fc6c9c275ad518d59b17c6a04ef5a877/output/res/drawable/error_circle.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/Framework/build/intermediates/res/merged/release/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/Users/turing_ios/.android/build-cache/c53feb5ade01f489128826d68caa2781dcc147a4/output/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\bmob_update_button_cancel_bg_normal.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\6f7e5c63cc2346d4a88190b6754571cd4a486128\\output\\res\\drawable\\bmob_update_button_cancel_bg_normal.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\bmob_update_wifi_disable.png",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\6f7e5c63cc2346d4a88190b6754571cd4a486128\\output\\res\\drawable\\bmob_update_wifi_disable.png"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\4789d490273a6a2e90a2c455b18d6f98713298fb\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/Framework/build/intermediates/res/merged/release/drawable/gray_button_background.xml",
+        "source": "/Users/turing_ios/.android/build-cache/9c36f8f9fc6c9c275ad518d59b17c6a04ef5a877/output/res/drawable/gray_button_background.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\TuringLive\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\design_snackbar_background.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\c0c35526647c76c3ad67d120a332ad5277abfa58\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/Framework/build/intermediates/res/merged/release/drawable/design_snackbar_background.xml",
+        "source": "/Users/turing_ios/.android/build-cache/91a4c4d8cabb98a0e7da56885c2dc5f1cded7018/output/res/drawable/design_snackbar_background.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\TuringLive\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\back.png",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\TuringLive\\Framework\\src\\main\\res\\drawable\\back.png"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\abc_textfield_search_material.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\4789d490273a6a2e90a2c455b18d6f98713298fb\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\TuringLive\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\red_button_background.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\d284fb8a901cdb65476e53feaf5b9e697dca6c76\\output\\res\\drawable\\red_button_background.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/Framework/build/intermediates/res/merged/release/drawable/bmob_update_button_check_selector.xml",
+        "source": "/Users/turing_ios/.android/build-cache/39aea99b11c8413e4397bbf31e18671656f9523f/output/res/drawable/bmob_update_button_check_selector.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/Framework/build/intermediates/res/merged/release/drawable/bmob_update_button_cancel_bg_tap.xml",
+        "source": "/Users/turing_ios/.android/build-cache/39aea99b11c8413e4397bbf31e18671656f9523f/output/res/drawable/bmob_update_button_cancel_bg_tap.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\notification_tile_bg.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\4789d490273a6a2e90a2c455b18d6f98713298fb\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\abc_text_cursor_material.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\4789d490273a6a2e90a2c455b18d6f98713298fb\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/Framework/build/intermediates/res/merged/release/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "/Users/turing_ios/.android/build-cache/c53feb5ade01f489128826d68caa2781dcc147a4/output/res/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\TuringLive\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_colored_material.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\4789d490273a6a2e90a2c455b18d6f98713298fb\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\TuringLive\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\4789d490273a6a2e90a2c455b18d6f98713298fb\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_track_material.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\4789d490273a6a2e90a2c455b18d6f98713298fb\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/Framework/build/intermediates/res/merged/release/drawable/abc_switch_thumb_material.xml",
+        "source": "/Users/turing_ios/.android/build-cache/c53feb5ade01f489128826d68caa2781dcc147a4/output/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\notification_icon_background.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\4789d490273a6a2e90a2c455b18d6f98713298fb\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\TuringLive\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\choice_dialog_background.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\TuringLive\\Framework\\src\\main\\res\\drawable\\choice_dialog_background.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/Framework/build/intermediates/res/merged/release/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/turing_ios/.android/build-cache/c53feb5ade01f489128826d68caa2781dcc147a4/output/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/Framework/build/intermediates/res/merged/release/drawable/bmob_update_button_ok_bg_tap.xml",
+        "source": "/Users/turing_ios/.android/build-cache/39aea99b11c8413e4397bbf31e18671656f9523f/output/res/drawable/bmob_update_button_ok_bg_tap.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\TuringLive\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\success_bow.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\d284fb8a901cdb65476e53feaf5b9e697dca6c76\\output\\res\\drawable\\success_bow.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_search_api_material.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\4789d490273a6a2e90a2c455b18d6f98713298fb\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\warning_sigh.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\d284fb8a901cdb65476e53feaf5b9e697dca6c76\\output\\res\\drawable\\warning_sigh.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\error_center_x.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\d284fb8a901cdb65476e53feaf5b9e697dca6c76\\output\\res\\drawable\\error_center_x.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\TuringLive\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\warning_sigh.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\d284fb8a901cdb65476e53feaf5b9e697dca6c76\\output\\res\\drawable\\warning_sigh.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\TuringLive\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\success_circle.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\d284fb8a901cdb65476e53feaf5b9e697dca6c76\\output\\res\\drawable\\success_circle.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\TuringLive\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_material.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\4789d490273a6a2e90a2c455b18d6f98713298fb\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/Framework/build/intermediates/res/merged/release/drawable/error_center_x.xml",
+        "source": "/Users/turing_ios/.android/build-cache/9c36f8f9fc6c9c275ad518d59b17c6a04ef5a877/output/res/drawable/error_center_x.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\TuringLive\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\4789d490273a6a2e90a2c455b18d6f98713298fb\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\TuringLive\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\abc_textfield_search_material.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\4789d490273a6a2e90a2c455b18d6f98713298fb\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/Framework/build/intermediates/res/merged/release/drawable/navigation_empty_icon.xml",
+        "source": "/Users/turing_ios/.android/build-cache/91a4c4d8cabb98a0e7da56885c2dc5f1cded7018/output/res/drawable/navigation_empty_icon.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/Framework/build/intermediates/res/merged/release/drawable/bmob_update_wifi_disable.png",
+        "source": "/Users/turing_ios/.android/build-cache/39aea99b11c8413e4397bbf31e18671656f9523f/output/res/drawable/bmob_update_wifi_disable.png"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\TuringLive\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\c0c35526647c76c3ad67d120a332ad5277abfa58\\output\\res\\drawable\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/Framework/build/intermediates/res/merged/release/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/Users/turing_ios/.android/build-cache/c53feb5ade01f489128826d68caa2781dcc147a4/output/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\TuringLive\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\4789d490273a6a2e90a2c455b18d6f98713298fb\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\TuringLive\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_clear_material.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\4789d490273a6a2e90a2c455b18d6f98713298fb\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/Framework/build/intermediates/res/merged/release/drawable/notification_bg_low.xml",
+        "source": "/Users/turing_ios/.android/build-cache/c53feb5ade01f489128826d68caa2781dcc147a4/output/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\dialog_loading_bg.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\YangZhiBo\\Framework\\src\\main\\res\\drawable\\dialog_loading_bg.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/Framework/build/intermediates/res/merged/release/drawable/abc_ratingbar_material.xml",
+        "source": "/Users/turing_ios/.android/build-cache/c53feb5ade01f489128826d68caa2781dcc147a4/output/res/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/Framework/build/intermediates/res/merged/release/drawable/abc_btn_check_material.xml",
+        "source": "/Users/turing_ios/.android/build-cache/c53feb5ade01f489128826d68caa2781dcc147a4/output/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\back.png",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\YangZhiBo\\Framework\\src\\main\\res\\drawable\\back.png"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\red_button_background.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\d284fb8a901cdb65476e53feaf5b9e697dca6c76\\output\\res\\drawable\\red_button_background.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\TuringLive\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_check_material.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\4789d490273a6a2e90a2c455b18d6f98713298fb\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\TuringLive\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\notification_icon_background.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\4789d490273a6a2e90a2c455b18d6f98713298fb\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\4789d490273a6a2e90a2c455b18d6f98713298fb\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/Framework/build/intermediates/res/merged/release/drawable/design_bottom_navigation_item_background.xml",
+        "source": "/Users/turing_ios/.android/build-cache/91a4c4d8cabb98a0e7da56885c2dc5f1cded7018/output/res/drawable/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\4789d490273a6a2e90a2c455b18d6f98713298fb\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\abc_vector_test.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\4789d490273a6a2e90a2c455b18d6f98713298fb\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/Framework/build/intermediates/res/merged/release/drawable/abc_ratingbar_small_material.xml",
+        "source": "/Users/turing_ios/.android/build-cache/c53feb5ade01f489128826d68caa2781dcc147a4/output/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/Framework/build/intermediates/res/merged/release/drawable/warning_sigh.xml",
+        "source": "/Users/turing_ios/.android/build-cache/9c36f8f9fc6c9c275ad518d59b17c6a04ef5a877/output/res/drawable/warning_sigh.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/Framework/build/intermediates/res/merged/release/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/Users/turing_ios/.android/build-cache/c53feb5ade01f489128826d68caa2781dcc147a4/output/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\TuringLive\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\design_fab_background.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\c0c35526647c76c3ad67d120a332ad5277abfa58\\output\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\TuringLive\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\error_center_x.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\d284fb8a901cdb65476e53feaf5b9e697dca6c76\\output\\res\\drawable\\error_center_x.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\warning_circle.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\d284fb8a901cdb65476e53feaf5b9e697dca6c76\\output\\res\\drawable\\warning_circle.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\navigation_empty_icon.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\c0c35526647c76c3ad67d120a332ad5277abfa58\\output\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/Framework/build/intermediates/res/merged/release/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/turing_ios/.android/build-cache/c53feb5ade01f489128826d68caa2781dcc147a4/output/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/Framework/build/intermediates/res/merged/release/drawable/bmob_update_button_cancel_bg_focused.xml",
+        "source": "/Users/turing_ios/.android/build-cache/39aea99b11c8413e4397bbf31e18671656f9523f/output/res/drawable/bmob_update_button_cancel_bg_focused.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/Framework/build/intermediates/res/merged/release/drawable/success_circle.xml",
+        "source": "/Users/turing_ios/.android/build-cache/9c36f8f9fc6c9c275ad518d59b17c6a04ef5a877/output/res/drawable/success_circle.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\TuringLive\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\4789d490273a6a2e90a2c455b18d6f98713298fb\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\bmob_update_button_cancel_bg_focused.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\6f7e5c63cc2346d4a88190b6754571cd4a486128\\output\\res\\drawable\\bmob_update_button_cancel_bg_focused.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/Framework/build/intermediates/res/merged/release/drawable/bmob_update_dialog_bg.xml",
+        "source": "/Users/turing_ios/.android/build-cache/39aea99b11c8413e4397bbf31e18671656f9523f/output/res/drawable/bmob_update_dialog_bg.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/Framework/build/intermediates/res/merged/release/drawable/abc_ic_search_api_material.xml",
+        "source": "/Users/turing_ios/.android/build-cache/c53feb5ade01f489128826d68caa2781dcc147a4/output/res/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\notification_bg.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\4789d490273a6a2e90a2c455b18d6f98713298fb\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/Framework/build/intermediates/res/merged/release/drawable/abc_vector_test.xml",
+        "source": "/Users/turing_ios/.android/build-cache/c53feb5ade01f489128826d68caa2781dcc147a4/output/res/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\notification_bg_low.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\4789d490273a6a2e90a2c455b18d6f98713298fb\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/Framework/build/intermediates/res/merged/release/drawable/abc_tab_indicator_material.xml",
+        "source": "/Users/turing_ios/.android/build-cache/c53feb5ade01f489128826d68caa2781dcc147a4/output/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\TuringLive\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_top_material.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\4789d490273a6a2e90a2c455b18d6f98713298fb\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\TuringLive\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\dialog_background.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\d284fb8a901cdb65476e53feaf5b9e697dca6c76\\output\\res\\drawable\\dialog_background.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\TuringLive\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_track_material.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\4789d490273a6a2e90a2c455b18d6f98713298fb\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\bmob_update_button_ok_bg_focused.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\6f7e5c63cc2346d4a88190b6754571cd4a486128\\output\\res\\drawable\\bmob_update_button_ok_bg_focused.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\4789d490273a6a2e90a2c455b18d6f98713298fb\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\choice_dialog_background.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\YangZhiBo\\Framework\\src\\main\\res\\drawable\\choice_dialog_background.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\success_bow.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\d284fb8a901cdb65476e53feaf5b9e697dca6c76\\output\\res\\drawable\\success_bow.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\4789d490273a6a2e90a2c455b18d6f98713298fb\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/Framework/build/intermediates/res/merged/release/drawable/bmob_update_button_cancel_bg_normal.xml",
+        "source": "/Users/turing_ios/.android/build-cache/39aea99b11c8413e4397bbf31e18671656f9523f/output/res/drawable/bmob_update_button_cancel_bg_normal.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\TuringLive\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\abc_vector_test.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\4789d490273a6a2e90a2c455b18d6f98713298fb\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\4789d490273a6a2e90a2c455b18d6f98713298fb\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\c0c35526647c76c3ad67d120a332ad5277abfa58\\output\\res\\drawable\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\dialog_background.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\d284fb8a901cdb65476e53feaf5b9e697dca6c76\\output\\res\\drawable\\dialog_background.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/Framework/build/intermediates/res/merged/release/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/Users/turing_ios/.android/build-cache/c53feb5ade01f489128826d68caa2781dcc147a4/output/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\4789d490273a6a2e90a2c455b18d6f98713298fb\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\TuringLive\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\warning_circle.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\d284fb8a901cdb65476e53feaf5b9e697dca6c76\\output\\res\\drawable\\warning_circle.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\bmob_update_button_cancel_bg_tap.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\6f7e5c63cc2346d4a88190b6754571cd4a486128\\output\\res\\drawable\\bmob_update_button_cancel_bg_tap.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/Framework/build/intermediates/res/merged/release/drawable/touch_bg.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/Framework/src/main/res/drawable/touch_bg.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/Framework/build/intermediates/res/merged/release/drawable/abc_btn_borderless_material.xml",
+        "source": "/Users/turing_ios/.android/build-cache/c53feb5ade01f489128826d68caa2781dcc147a4/output/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\TuringLive\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\notification_tile_bg.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\4789d490273a6a2e90a2c455b18d6f98713298fb\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/Framework/build/intermediates/res/merged/release/drawable/bmob_update_button_ok_bg_selector.xml",
+        "source": "/Users/turing_ios/.android/build-cache/39aea99b11c8413e4397bbf31e18671656f9523f/output/res/drawable/bmob_update_button_ok_bg_selector.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/Framework/build/intermediates/res/merged/release/drawable/abc_text_cursor_material.xml",
+        "source": "/Users/turing_ios/.android/build-cache/c53feb5ade01f489128826d68caa2781dcc147a4/output/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\bmob_update_button_close_bg_selector.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\6f7e5c63cc2346d4a88190b6754571cd4a486128\\output\\res\\drawable\\bmob_update_button_close_bg_selector.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/Framework/build/intermediates/res/merged/release/drawable/bmob_update_button_close_bg_selector.xml",
+        "source": "/Users/turing_ios/.android/build-cache/39aea99b11c8413e4397bbf31e18671656f9523f/output/res/drawable/bmob_update_button_close_bg_selector.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/Framework/build/intermediates/res/merged/release/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/turing_ios/.android/build-cache/c53feb5ade01f489128826d68caa2781dcc147a4/output/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/Framework/build/intermediates/res/merged/release/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/turing_ios/.android/build-cache/c53feb5ade01f489128826d68caa2781dcc147a4/output/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/Framework/build/intermediates/res/merged/release/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/turing_ios/.android/build-cache/c53feb5ade01f489128826d68caa2781dcc147a4/output/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\TuringLive\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\abc_dialog_material_background.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\4789d490273a6a2e90a2c455b18d6f98713298fb\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\TuringLive\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\4789d490273a6a2e90a2c455b18d6f98713298fb\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\TuringLive\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_search_api_material.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\4789d490273a6a2e90a2c455b18d6f98713298fb\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\TuringLive\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\4789d490273a6a2e90a2c455b18d6f98713298fb\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\TuringLive\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\4789d490273a6a2e90a2c455b18d6f98713298fb\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\TuringLive\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_borderless_material.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\4789d490273a6a2e90a2c455b18d6f98713298fb\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/Framework/build/intermediates/res/merged/release/drawable/design_fab_background.xml",
+        "source": "/Users/turing_ios/.android/build-cache/91a4c4d8cabb98a0e7da56885c2dc5f1cded7018/output/res/drawable/design_fab_background.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\TuringLive\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\4789d490273a6a2e90a2c455b18d6f98713298fb\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/Framework/build/intermediates/res/merged/release/drawable/abc_seekbar_track_material.xml",
+        "source": "/Users/turing_ios/.android/build-cache/c53feb5ade01f489128826d68caa2781dcc147a4/output/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\TuringLive\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\error_circle.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\d284fb8a901cdb65476e53feaf5b9e697dca6c76\\output\\res\\drawable\\error_circle.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\bmob_update_button_ok_bg_normal.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\6f7e5c63cc2346d4a88190b6754571cd4a486128\\output\\res\\drawable\\bmob_update_button_ok_bg_normal.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\design_password_eye.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\c0c35526647c76c3ad67d120a332ad5277abfa58\\output\\res\\drawable\\design_password_eye.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_material.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\4789d490273a6a2e90a2c455b18d6f98713298fb\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/Framework/build/intermediates/res/merged/release/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/turing_ios/.android/build-cache/c53feb5ade01f489128826d68caa2781dcc147a4/output/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\TuringLive\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\4789d490273a6a2e90a2c455b18d6f98713298fb\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/Framework/build/intermediates/res/merged/release/drawable/bmob_update_button_ok_bg_normal.xml",
+        "source": "/Users/turing_ios/.android/build-cache/39aea99b11c8413e4397bbf31e18671656f9523f/output/res/drawable/bmob_update_button_ok_bg_normal.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\design_fab_background.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\c0c35526647c76c3ad67d120a332ad5277abfa58\\output\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_radio_material.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\4789d490273a6a2e90a2c455b18d6f98713298fb\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/C:\\Users\\Administrator\\.android\\build-cache\\4789d490273a6a2e90a2c455b18d6f98713298fb\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\YangZhiBo\\Framework\\build\\intermediates\\res\\merged\\release\\drawable\\touch_bg.xml",
+        "source": "/Users/turing_ios/AndroidDemo/YangZhiBo/D:\\YangZhiBo\\Framework\\src\\main\\res\\drawable\\touch_bg.xml"
+    },
+    {
+        "merged": "/Users/turing_ios/AndroidDemo/YangZhiBo/Framework/build/intermediates/res/merged/release/drawable/warning_circle.xml",
+        "source": "/Users/turing_ios/.android/build-cache/9c36f8f9fc6c9c275ad518d59b17c6a04ef5a877/output/res/drawable/warning_circle.xml"
+    }
+]

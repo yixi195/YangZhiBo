@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="black">#ff333333</color>
+    <color name="blue">#ff298ecb</color>
+    <color name="default_back">#fdfdfe</color>
+    <color name="default_background">#f8f8f8</color>
+    <color name="default_scroll_color">#cdcdcd</color>
+    <color name="gray">#929292</color>
+    <color name="green">#057f3f</color>
+    <color name="item_click_bg">#f6f6f7</color>
+    <color name="list_item_line">#d8d8d8</color>
+    <color name="main_bg_color">#EEEEEE</color>
+    <color name="main_head">#20b4e9</color>
+    <color name="main_head_title">#FFFFFF</color>
+    <color name="main_line_color">#E9EAEC</color>
+    <color name="red">#F55B5B</color>
+    <color name="simples_title_bg">#282526</color>
+    <color name="temporary">#EEEEEE</color>
+    <color name="title_bar_divider_line">#dfdfdf</color>
+    <color name="translucence">#50000000</color>
+    <color name="translucence_white">#50FFFFFF</color>
+    <color name="transparent">#00000000</color>
+    <color name="white">#ffffffff</color>
+    <color name="yellow">#ff9f40</color>
+    <declare-styleable name="HeaderViewPager"><attr format="dimension" name="hvp_topOffset"/></declare-styleable>
+    <declare-styleable name="MyTitleBar"><attr format="reference|string" name="leftText"/><attr format="reference|string" name="middleText"/><attr format="reference|string" name="rightText"/><attr format="boolean" name="rightVisible"/><attr format="boolean" name="leftVisible"/><attr format="boolean" name="showStatusBar"/><attr format="reference" name="leftIcon"/><attr format="reference" name="rightIcon"/><attr format="reference" name="rightBackground"/><attr format="reference" name="middleTextColor"/><attr format="reference" name="rightTextColor"/><attr format="dimension" name="rightTextSize"/><attr format="reference" name="backgroundColor"/><attr format="reference" name="statusBarBackgroundColor"/><attr format="boolean" name="showDividerLine"/></declare-styleable>
+    <declare-styleable name="SlidingTabLayout"><attr format="color|reference" name="highlightTextColor"/><attr format="color|reference" name="normalTextColor"/><attr format="color|reference" name="dividerLineColor"/><attr format="color|reference" name="shadowLineColor"/><attr format="dimension" name="shadowLineWrapperOffset"/><attr format="boolean" name="shadowLineFillParent"/><attr format="boolean" name="showShadowLine"/><attr format="dimension" name="titleTextSize"/><attr format="boolean" name="useScrollView"/></declare-styleable>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="default_background_stroke_width">3dp</dimen>
+    <dimen name="default_scroll_width">1dp</dimen>
+    <dimen name="default_sliding_tab_layout_text_size">16sp</dimen>
+    <dimen name="default_stroke_width">7dp</dimen>
+    <dimen name="split_line">1dp</dimen>
+    <dimen name="text_size_10">10.0sp</dimen>
+    <dimen name="text_size_11">11.0sp</dimen>
+    <dimen name="text_size_12">12.0sp</dimen>
+    <dimen name="text_size_13">13.0sp</dimen>
+    <dimen name="text_size_14">14.0sp</dimen>
+    <dimen name="text_size_15">15.0sp</dimen>
+    <dimen name="text_size_16">16.0sp</dimen>
+    <dimen name="text_size_17">17.0sp</dimen>
+    <dimen name="text_size_18">18.0sp</dimen>
+    <dimen name="text_size_19">19.0sp</dimen>
+    <dimen name="text_size_20">20.0sp</dimen>
+    <dimen name="text_size_21">21.0sp</dimen>
+    <dimen name="text_size_22">22.0sp</dimen>
+    <dimen name="text_size_23">23.0sp</dimen>
+    <dimen name="text_size_24">24.0sp</dimen>
+    <dimen name="text_size_25">25.0sp</dimen>
+    <dimen name="text_size_26">26.0sp</dimen>
+    <dimen name="text_size_27">27.0sp</dimen>
+    <dimen name="text_size_28">28.0sp</dimen>
+    <dimen name="text_size_29">29.0sp</dimen>
+    <dimen name="text_size_30">30.0sp</dimen>
+    <dimen name="text_size_31">31.0sp</dimen>
+    <dimen name="text_size_32">32.0sp</dimen>
+    <dimen name="text_size_7">7.0sp</dimen>
+    <dimen name="text_size_8">8.0sp</dimen>
+    <dimen name="text_size_9">9.0sp</dimen>
+    <dimen name="toolBarHeight">50dp</dimen>
+    <dimen name="toolBarPaddingTop">0dp</dimen>
+    <item name="about_version_code" type="id">false</item>
+    <item name="scrollView" type="id">false</item>
+    <item name="split" type="id">false</item>
+    <string name="app_name">Framework</string>
+    <string name="load_more_data">加载更多数据</string>
+    <string name="pull_to_refresh_from_bottom_pull_label">正在加载更多…</string>
+    <string name="pull_to_refresh_from_bottom_refreshing_label">加载完成…</string>
+    <string name="pull_to_refresh_from_bottom_release_label">正在加载更多…</string>
+    <string name="pull_to_refresh_pull_label">正在努力加载中…</string>
+    <string name="pull_to_refresh_refreshing_label">正在载入完成…</string>
+    <string name="pull_to_refresh_release_label">正在努力加载中…</string>
+    <string name="this_is_the_last_data">已经是最后一条数据</string>
+    <style name="AppBaseTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowTranslucentStatus" ns1:targetApi="kitkat">true</item>
+        <item name="android:textAllCaps">false</item>
+    </style>
+    <style name="CustomDialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+        <item name="android:windowSoftInputMode">stateUnspecified|adjustPan</item>
+    </style>
+    <style name="CustomProgressDialog" parent="@style/CustomDialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="DefaultRecyclerView">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:scrollbarThumbHorizontal">@color/default_scroll_color</item>
+        <item name="android:scrollbars">vertical</item>
+        <item name="android:scrollbarSize">@dimen/default_scroll_width</item>
+    </style>
+    <style name="LaunchStyle" parent="AppBaseTheme">
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+    </style>
+    <style name="dialog">
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowActionModeOverlay">true</item>
+    </style>
+    <style name="dlg_common" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@color/transparent</item>
+        <item name="android:backgroundDimAmount">0.7</item>
+    </style>
+</resources>
