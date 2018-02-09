@@ -11,7 +11,7 @@ Bmob后端云SDK
 
 
 ## 效果图
-<div align="center">
+<div align="left">
 <img src="https://raw.githubusercontent.com/yixi195/YangZhiBo/master/screenshots/001.png"  width=268 height=457 />
 <img src="https://raw.githubusercontent.com/yixi195/YangZhiBo/master/screenshots/002.png" width=268 height=457 />
 <img src="https://raw.githubusercontent.com/yixi195/YangZhiBo/master/screenshots/003.png" width=268 height=457 />
@@ -29,4 +29,8 @@ Bmob后端云SDK
 
 ## 免责声明
 API 数据来源于熊猫tv，仅供个人参考学习使用。
+
+邮箱： 195779438@qq.com
+
+                    ----by YSL
 
